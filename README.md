@@ -1,4 +1,4 @@
-# newproject
+# Music Clone App
 
 A new Flutter project.
 

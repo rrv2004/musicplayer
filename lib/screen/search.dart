@@ -29,7 +29,7 @@ class Search extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Column(
-        children: [searchappbar('SEARCH')],
+        children: [searchappbar('SEARCH'), SearchBar()],
       ),
       decoration: BoxDecoration(
           gradient: LinearGradient(colors: [
